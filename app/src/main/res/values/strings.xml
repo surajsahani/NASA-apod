@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">nasapod</string>
     <string name="element_text">hellow world</string>
+    <string name="msg_failed_load">Failed to load data</string>
+    <string name="label_loading">Loading...</string>
 </resources>
