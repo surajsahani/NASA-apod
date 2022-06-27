@@ -26,4 +26,9 @@ class MainFragment : Fragment(R.layout.main_fragment) {
     binding.apodRecyclerView.layoutManager = layoutManager
     binding.apodRecyclerView.adapter = adapter
   }
+
+  fun add() {
+
+  }
+
 }
